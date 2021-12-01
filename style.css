@@ -1,0 +1,12 @@
+.container {
+    padding: 5px;
+    border: 2px solid rgb(250, 168, 135);
+    margin: 10px;
+    border-radius: 5px;
+  
+}
+
+.outer{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
